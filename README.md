@@ -22,10 +22,16 @@ Repositorio con imagenes del desarrollo de desafio de SQL con el uso del motor P
 
 ![Respuesta 3](img/3.png)
 
-■ 4.
+■ 4. Según lo que se pide, la respuesa es la solución A, pero considero que la solución B ayuda a entender los resultados mejor. De todas maneras la respuesta A es la que cuenta.
 
-![Respuesta 4](img/4.png)
+  * Solución A:
 
+  ![Respuesta 4a](img/4a.png)
+
+  * Solución B:
+
+  ![Respuesta 4b](img/4b.png)
+  
 ■ 5.
 
 ![Respuesta 5](img/5.png)
